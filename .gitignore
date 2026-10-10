@@ -199,15 +199,18 @@ assign1/data/raw/BACI_HS17/product_codes_HS17_V202601.csv
 
 
 
-# Generated data layers
-data/bronze/
-data/silver/
-data/gold/
+
+
+
+# Generated lakehouse data
+/assign1/data/bronze/
+/assign1/data/silver/
+/assign1/data/gold/
 
 # Local DuckDB databases
 *.duckdb
 *.duckdb.wal
 
 # Notebook temporary files
-.ipynb_checkpoints/
-__pycache__/
+**/.ipynb_checkpoints/
+**/__pycache__/
