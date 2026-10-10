@@ -1,0 +1,11 @@
+check_name,result,status
+fact_trade_row_count,111928,PASS
+dim_year_row_count,8,PASS
+dim_exporter_row_count,166,PASS
+dim_product_row_count,4443,PASS
+dim_importer_row_count,1,PASS
+fact_matches_silver_row_count,True,PASS
+dim_year_missing_keys,0,PASS
+dim_exporter_missing_keys,0,PASS
+dim_product_missing_keys,0,PASS
+dim_importer_missing_keys,0,PASS
