@@ -185,3 +185,13 @@ cython_debug/
 
 # Built Visual Studio Code Extensions
 *.vsix
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2019_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2020_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2021_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2022_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2023_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2017_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2018_V202601.csv
+assign1/data/raw/BACI_HS17/BACI_HS17_Y2024_V202601.csv
+assign1/data/raw/BACI_HS17/country_codes_V202601.csv
+assign1/data/raw/BACI_HS17/product_codes_HS17_V202601.csv
